@@ -7,7 +7,7 @@
 ### Updates 🙌
 - I'm currently learning about Neural Networks (CNN) & it's implimentation using Tensorflow / Keras.
 - Working on projects surrounding Natural Language Processing (NLP).
-- Finding my way into web development.
+- Finding my way into Web Development.
 <br>
 
 [![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-VINT)](https://github.com/Dhruv-VINT/github-readme-stats)
