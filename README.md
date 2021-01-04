@@ -3,11 +3,12 @@
 ### About Me 🚀
 - I'm a Machine Learning enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering 🎓
 - I have a strong zeal for contributing towards Open Source 🔅
-- Highly passionate about Deep learning & DevOps 📈
+- Finding my way into Web Development.
 ### Updates 🙌
 - I'm currently learning about Neural Networks (CNN) & it's implimentation using Tensorflow / Keras.
 - Working on projects surrounding Natural Language Processing (NLP).
-- Finding my way into Web Development.
+- Building practice projects using HTML, CSS & vanillaJS.
+- Learning React Basics.
 <br>
 
 [![Dhruv's github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-VINT)](https://github.com/Dhruv-VINT/github-readme-stats)
