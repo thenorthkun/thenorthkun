@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dhruv!](https://dhruv-vint.github.io/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Dhruv!] 
 
 ### About Me 🚀
 - I'm a tech enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering 🎓
